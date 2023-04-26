@@ -13,5 +13,5 @@ In this project I have created a visualization that depicts energy consumption i
 • plotly.graph_objects
 
 • plotly.express
-
+ 
 • matplotlib.pyplot
