@@ -1,6 +1,6 @@
 # Energy Usage Analysis
 
-In this project I have a visualization that depicts energy consumption in Balkan countries from 1965 until 2022 using data from https://ourworldindata.org/. 
+In this project I have created a visualization that depicts energy consumption in Balkan countries from 1965 until 2022 using data from https://ourworldindata.org/. 
 
 # Instructions on running: 
 
